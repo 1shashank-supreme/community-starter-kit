@@ -1,9 +1,9 @@
-DESCRIPTION PLACEHOLDER
+# Welcome to the users! 
 
 This is to describe that this is for users and many others!
 *Allow others also to get over all the information!*
 
-FEATURES PLACEHOLDER
+## This is how we need to go!
 
 We have some important features such as:
 1. Sensitive data must be protected.
