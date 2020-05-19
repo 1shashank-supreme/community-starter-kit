@@ -1,13 +1,12 @@
-# welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
 
-## This is to describe that this is for users and many others!
+This is to describe that this is for users and many others!
 *Allow others also to get over all the information!*
 
 FEATURES PLACEHOLDER
 
-## We have some important features such as:
+We have some important features such as:
 1. Sensitive data must be protected.
 2. Must not allow the restricted sites to get over.
   1. Including one which is not meant for others.
