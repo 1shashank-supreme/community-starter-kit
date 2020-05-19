@@ -1,4 +1,3 @@
-
 DESCRIPTION PLACEHOLDER
 
 This is to describe that this is for users and many others!
@@ -10,8 +9,6 @@ We have some important features such as:
 1. Sensitive data must be protected.
 2. Must not allow the restricted sites to get over.
   1. Including one which is not meant for others.
-
-1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
 - Pull requests: Read & Write
 - Issues: Read & Write
